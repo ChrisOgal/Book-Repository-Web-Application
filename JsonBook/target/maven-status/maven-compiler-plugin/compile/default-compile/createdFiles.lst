@@ -1,0 +1,5 @@
+com\christopheridah\jsonbook\ui\JsonBookProcessor.class
+com\christopheridah\jsonbook\ui\LogOutServlet.class
+com\christopheridah\jsonbook\ui\LogInServlet.class
+com\christopheridah\jsonbook\JAXRSConfiguration.class
+com\christopheridah\jsonbook\ui\JsonBookBean.class
