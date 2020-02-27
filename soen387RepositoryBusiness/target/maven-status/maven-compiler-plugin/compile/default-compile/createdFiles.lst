@@ -1,0 +1,13 @@
+com\christopheridah\soen387repositorybusiness\core\CoverImage.class
+com\christopheridah\soen387repositorybusiness\core\BookRepository.class
+com\christopheridah\soen387repositorybusiness\core\IBookRepository.class
+com\christopheridah\soen387repositorybusiness\core\User.class
+com\christopheridah\soen387repositorybusiness\resources\JavaEE8Resource.class
+com\christopheridah\soen387repositorybusiness\dataAccessLayer\TableGateway.class
+com\christopheridah\soen387repositorybusiness\core\Session.class
+com\christopheridah\soen387repositorybusiness\core\Book.class
+com\christopheridah\soen387repositorybusiness\core\RepositoryException.class
+com\christopheridah\soen387repositorybusiness\dataAccessLayer\addNewBookProcedure.class
+com\christopheridah\soen387repositorybusiness\core\Author.class
+com\christopheridah\soen387repositorybusiness\core\Publisher.class
+com\christopheridah\soen387repositorybusiness\core\Session$1.class
