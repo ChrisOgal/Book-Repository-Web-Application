@@ -1,0 +1,6 @@
+com\christopheridah\soen387repository\ui\DeleteServlet.class
+com\christopheridah\soen387repository\JAXRSConfiguration.class
+com\christopheridah\soen387repository\ui\UpdateServlet.class
+com\christopheridah\soen387repository\ui\BookInfoBean.class
+com\christopheridah\soen387repository\ui\RepositoryServlet.class
+com\christopheridah\soen387repository\ui\AddServlet.class
